@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-df = pd.read_csv("sheart.csv")
+df = pd.read_csv("../heart.csv")
 
 
 print("First 5 rows:")
