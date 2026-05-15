@@ -36,7 +36,7 @@ def set_bg_image_local(image_file):
     )
 
 
-set_bg_image_local("../bg.jpg")
+set_bg_image_local("bg.jpg")
 
 
 st.title(" Heart Health Analytics Dashboard")
